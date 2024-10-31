@@ -1,0 +1,16 @@
+.Registration{
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('src/assets/images/registrationIMG.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
